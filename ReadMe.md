@@ -1,1 +1,2 @@
 UBUNTU
+WIN HOST
